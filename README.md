@@ -1,4 +1,6 @@
 # manu_demo
 doing some expirement
-This is the first prject
-learing new topics on git and aithub
+This is the first project
+learing new topics on git and github
+i am editing this
+clr
